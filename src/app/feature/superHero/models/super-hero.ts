@@ -1,5 +1,9 @@
 export interface SuperHero {
-    id: number;
+    id: string;
     name: string;
     img: string;
+    lastName: string;
+    description: string;
+    villainOrHero: string;
+    age: number;
 }

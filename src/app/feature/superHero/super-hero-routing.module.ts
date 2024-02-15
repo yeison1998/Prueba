@@ -5,11 +5,16 @@ import { SuperHeroComponent } from './components/super-hero/super-hero.component
 const routes: Routes = [{
   path: '',
   component: SuperHeroComponent
-}];
+},
+{
+  path: ':id',
+  component: SuperHeroComponent
+}
+];
 
 @NgModule({
   imports: [RouterModule.forChild(routes)],
-  
+
   exports: [RouterModule]
 })
 export class SuperHeroRoutingModule { }

@@ -1,304 +1,472 @@
 {
-    "superHeros": [
-        {
-            "id": 1,
-            "name": "Spiderman",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/10647.jpg"
-        },
-        {
-            "id": 2,
-            "name": "Batman",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 3,
-            "name": "Superman",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 4,
-            "name": "Wolverine",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/161.jpg"
-        },
-        {
-            "id": 5,
-            "name": "Captain America",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/274.jpg"
-        },
-        {
-            "id": 6,
-            "name": "Iron Man",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/85.jpg"
-        },
-        {
-            "id": 7,
-            "name": "Thor",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 8,
-            "name": "Hulk",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 9,
-            "name": "Black Widow",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 10,
-            "name": "Flash",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 11,
-            "name": "Wonder Woman",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 12,
-            "name": "Green Lantern",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 13,
-            "name": "Aquaman",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 14,
-            "name": "Black Panther",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 15,
-            "name": "Doctor Strange",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 16,
-            "name": "Green Arrow",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 17,
-            "name": "Cyborg",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 18,
-            "name": "Deadpool",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 19,
-            "name": "Ant-Man",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 20,
-            "name": "Shazam",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 21,
-            "name": "Robin",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 22,
-            "name": "The Flash (Jay Garrick)",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 23,
-            "name": "Hawkeye",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 24,
-            "name": "Daredevil",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 25,
-            "name": "Vision",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 26,
-            "name": "Scarlet Witch",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 27,
-            "name": "Martian Manhunter",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 28,
-            "name": "Supergirl",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 29,
-            "name": "Nightwing",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 30,
-            "name": "Beast Boy",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 31,
-            "name": "Rogue",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 32,
-            "name": "Star-Lord",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 33,
-            "name": "Gambit",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 34,
-            "name": "Invisible Woman",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 35,
-            "name": "Mr. Fantastic",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 36,
-            "name": "Human Torch",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 37,
-            "name": "The Thing",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 38,
-            "name": "Silver Surfer",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 39,
-            "name": "Storm",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 40,
-            "name": "Jean Grey",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 41,
-            "name": "Cyclops",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 42,
-            "name": "Colossus",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 43,
-            "name": "Professor X",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 44,
-            "name": "Emma Frost",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 45,
-            "name": "Banshee",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 46,
-            "name": "Luke Cage",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 47,
-            "name": "Black Canary",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 48,
-            "name": "Green Goblin",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 49,
-            "name": "Doctor Doom",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 50,
-            "name": "Magneto",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 51,
-            "name": "Jean Grey (Phoenix)",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 52,
-            "name": "Black Bolt",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 53,
-            "name": "Namor",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 54,
-            "name": "Silver Samurai",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 55,
-            "name": "Quicksilver",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 56,
-            "name": "Mystique",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 57,
-            "name": "Juggernaut",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 58,
-            "name": "Apocalypse",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 59,
-            "name": "Cable",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        },
-        {
-            "id": 60,
-            "name": "Havok",
-            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
-        }
-    ]
+  "superHeros": [
+    {
+      "id": "1",
+      "name": "Spiderman",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/10647.jpg",
+      "age": 25,
+      "description": "Un héroe con habilidades arácnidas y un gran sentido de la responsabilidad",
+      "lastName": "Parker",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "2",
+      "name": "Batman",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg",
+      "age": 30,
+      "description": "Un héroe sin poderes con una mente brillante y una fuerte ética",
+      "lastName": "Wayne",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "4",
+      "description": "Un mutante con garras retráctiles y una capacidad de curación acelerada",
+      "age": 137,
+      "name": "WOLVERINE",
+      "lastName": "Howlett",
+      "villainOrHero": "hero",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/161.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Captain America",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/274.jpg",
+      "age": 100,
+      "description": "Un héroe supersoldado con un sentido inquebrantable del deber",
+      "lastName": "Rogers",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "7",
+      "name": "Thor",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/140.jpg",
+      "age": 1000,
+      "description": "Un dios nórdico del trueno con un martillo mágico",
+      "lastName": "Odinson",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "8",
+      "name": "Hulk",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/83.jpg",
+      "age": 50,
+      "description": "Un científico con una alteración genética que lo transforma en una bestia verde",
+      "lastName": "Banner",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "9",
+      "name": "Black Widow",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/618.jpg",
+      "age": 35,
+      "description": "Una espía y experta en combate mano a mano",
+      "lastName": "Romanoff",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "10",
+      "name": "Flash",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/891.jpg",
+      "age": 28,
+      "description": "Un héroe con supervelocidad capaz de correr más rápido que la luz",
+      "lastName": "Allen",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "11",
+      "name": "Wonder Woman",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/807.jpg",
+      "age": 3000,
+      "description": "Una princesa amazona con fuerza sobrehumana y habilidades divinas",
+      "lastName": "Prince",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "12",
+      "name": "Agent Bob",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/10255.jpg",
+      "age": 40,
+      "description": "Un agente del gobierno con habilidades de combate y espionaje",
+      "lastName": "Unknown",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "13",
+      "name": "Aquaman",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/634.jpg",
+      "age": 35,
+      "description": "El rey atlante con la capacidad de comunicarse y controlar la vida marina",
+      "lastName": "Curry",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "14",
+      "name": "Black Panther",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/247.jpg",
+      "age": 40,
+      "description": "El rey de Wakanda con habilidades mejoradas por el corazón de la pantera",
+      "lastName": "T'Challa",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "15",
+      "name": "Doctor Strange",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/55.jpg",
+      "age": 45,
+      "description": "Un hechicero supremo con habilidades místicas y conocimiento del multiverso",
+      "lastName": "Strange",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "16",
+      "name": "Green Arrow",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/696.jpg",
+      "age": 35,
+      "description": "Un arquero experto con una flecha para cada situación",
+      "lastName": "Queen",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "17",
+      "name": "Cyborg",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/1204.jpg",
+      "age": 30,
+      "description": "Un héroe con partes cibernéticas que le otorgan habilidades tecnológicas",
+      "lastName": "Stone",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "18",
+      "name": "Deadpool",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/835.jpg",
+      "age": 35,
+      "description": "Un mercenario con poderes de curación acelerada y una personalidad excéntrica",
+      "lastName": "Wilson",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "19",
+      "name": "Ant-Man",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/857.jpg",
+      "age": 40,
+      "description": "Un científico con un traje que le permite reducir su tamaño y comunicarse con las hormigas",
+      "lastName": "Lang",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "20",
+      "name": "Doppelganger",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/1320.jpg",
+      "age": 25,
+      "description": "Una creación de simbionte con habilidades similares a Spider-Man",
+      "lastName": "Unknown",
+      "villainOrHero": "villain"
+    },
+    {
+      "id": "21",
+      "name": "Robin",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/850.jpg",
+      "age": 20,
+      "description": "Un compañero de Batman con habilidades acrobáticas y de detective",
+      "lastName": "Grayson",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "22",
+      "name": "Black Flash",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/10831.jpg",
+      "age": 30,
+      "description": "La manifestación de la muerte con velocidad sobrehumana",
+      "lastName": "Unknown",
+      "villainOrHero": "villain"
+    },
+    {
+      "id": "23",
+      "name": "Hawkeye",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/73.jpg",
+      "age": 40,
+      "description": "Un arquero experto con una precisión impecable",
+      "lastName": "Barton",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "24",
+      "name": "Daredevil",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/52.jpg",
+      "age": 35,
+      "description": "Un abogado ciego con habilidades de combate mejoradas",
+      "lastName": "Murdock",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "25",
+      "name": "Vision",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/532.jpg",
+      "age": 3,
+      "description": "Un sintozoide con habilidades sobrehumanas y una conexión con la gema mental",
+      "lastName": "Unknown",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "26",
+      "name": "Scarlet Witch",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/444.jpg",
+      "age": 35,
+      "description": "Una mutante con habilidades de manipulación de la realidad y la probabilidad",
+      "lastName": "Maximoff",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "27",
+      "name": "Martian Manhunter",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/733.jpg",
+      "age": 500,
+      "description": "Un marciano con habilidades telepáticas, cambio de forma y vuelo",
+      "lastName": "J'onzz",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "28",
+      "name": "Supergirl",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/790.jpg",
+      "age": 20,
+      "description": "Una kryptoniana con habilidades similares a Superman",
+      "lastName": "Zor-El",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "29",
+      "name": "Nightwing",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/851.jpg",
+      "age": 30,
+      "description": "El primer compañero de Batman que se convirtió en héroe por derecho propio",
+      "lastName": "Grayson",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "30",
+      "name": "Beast Boy",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/640.jpg",
+      "age": 25,
+      "description": "Un metamorfo con la capacidad de transformarse en cualquier animal",
+      "lastName": "Logan",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "31",
+      "name": "Rogue",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/831.jpg",
+      "age": 30,
+      "description": "Una mutante con la capacidad de absorber recuerdos y habilidades a través del contacto físico",
+      "lastName": "Unknown",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "32",
+      "name": "Star-Lord",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/10015.jpg",
+      "age": 40,
+      "description": "Un aventurero espacial con habilidades de liderazgo y combate",
+      "lastName": "Quill",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "33",
+      "name": "Gambit",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/64.jpg",
+      "age": 35,
+      "description": "Un mutante con la habilidad de cargar objetos con energía explosiva",
+      "lastName": "LeBeau",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "34",
+      "name": "Invisible Woman",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/620.jpg",
+      "age": 35,
+      "description": "Una mutante con la capacidad de volverse invisible y crear campos de fuerza",
+      "lastName": "Richards",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "35",
+      "name": "Mister Fantastic",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/408.jpg",
+      "age": 40,
+      "description": "Un científico con la capacidad de estirarse y manipular su cuerpo",
+      "lastName": "Richards",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "36",
+      "name": "Human Torch",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/362.jpg",
+      "age": 40,
+      "description": "Un hombre con la habilidad de controlar y proyectar fuego",
+      "lastName": "Storm",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "37",
+      "name": "Thing",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/139.jpg",
+      "age": 40,
+      "description": "Una criatura de piedra con una fuerza sobrehumana",
+      "lastName": "Grimm",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "38",
+      "name": "Silver Surfer",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/127.jpg",
+      "age": 10000,
+      "description": "Un heraldo cósmico con un surf espacial y poderes cósmicos",
+      "lastName": "Unknown",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "39",
+      "name": "Storm",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/135.jpg",
+      "age": 35,
+      "description": "Una mutante con la capacidad de controlar el clima y la atmósfera",
+      "lastName": "Munroe",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "40",
+      "name": "Jean Grey",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/814.jpg",
+      "age": 35,
+      "description": "Una mutante con habilidades telepáticas y telequinéticas",
+      "lastName": "Grey",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "41",
+      "name": "Cyclops",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/50.jpg",
+      "age": 35,
+      "description": "Un mutante con la capacidad de disparar rayos ópticos de energía",
+      "lastName": "Summers",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "42",
+      "name": "Colossus",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/48.jpg",
+      "age": 35,
+      "description": "Un mutante con la capacidad de convertirse en un ser de metal indestructible",
+      "lastName": "Rasputin",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "43",
+      "name": "Professor X",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/113.jpg",
+      "age": 70,
+      "description": "Un telepata con la habilidad de leer y controlar mentes",
+      "lastName": "Xavier",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "44",
+      "name": "Emma Frost",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/325.jpg",
+      "age": 40,
+      "description": "Una mutante con habilidades telepáticas y la capacidad de convertirse en diamante",
+      "lastName": "Frost",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "45",
+      "name": "Banshee",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/26.jpg",
+      "age": 45,
+      "description": "Un mutante con la capacidad de emitir gritos sónicos",
+      "lastName": "Cassidy",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "46",
+      "name": "Luke Cage",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/269.jpg",
+      "age": 40,
+      "description": "Un hombre con piel indestructible y una fuerza sobrehumana",
+      "lastName": "Cage",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "47",
+      "name": "Black Canary",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/1005.jpg",
+      "age": 30,
+      "description": "Una experta en artes marciales con la capacidad de emitir un grito sónico",
+      "lastName": "Lance",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "48",
+      "name": "Green Goblin",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/579.jpg",
+      "age": 50,
+      "description": "Un genio criminal con un traje de vuelo y planeador y bombas de calabaza",
+      "lastName": "Osborn",
+      "villainOrHero": "villain"
+    },
+    {
+      "id": "49",
+      "name": "Doctor Doom",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/189.jpg",
+      "age": 50,
+      "description": "Un dictador con armadura y habilidades místicas y tecnológicas",
+      "lastName": "Von Doom",
+      "villainOrHero": "villain"
+    },
+    {
+      "id": "50",
+      "name": "Magneto",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/12.jpg",
+      "age": 70,
+      "description": "Un mutante con la capacidad de controlar el magnetismo",
+      "lastName": "Lensherr",
+      "villainOrHero": "villain"
+    },
+    {
+      "id": "51",
+      "name": "Jean Grey",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/814.jpg",
+      "age": 35,
+      "description": "Una mutante con habilidades telepáticas y telequinéticas",
+      "lastName": "Grey",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "52",
+      "name": "Black Bolt",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/119.jpg",
+      "age": 40,
+      "description": "Un rey inhumano con la capacidad de destruir con un solo susurro",
+      "lastName": "Boltagon",
+      "villainOrHero": "hero"
+    },
+    {
+      "id": "53",
+      "description": "Un líder de la agencia de espionaje S.H.I.E.L.D. con habilidades tácticas",
+      "age": 60,
+      "name": "Nick Furyy",
+      "lastName": "Fury",
+      "villainOrHero": "hero",
+      "img": "https://www.superherodb.com/pictures2/portraits/10/100/809.jpg"
+    },
+    {
+      "id": "245",
+      "description": "test mayus",
+      "age": 25,
+      "name": "YEISON",
+      "lastName": "Pareja",
+      "villainOrHero": "hero",
+      "img": "https://s.cafebazaar.ir/images/upload/screenshot/com.mhcn.Vikings-9ac65a82-6179-4b3c-b823-a03e9cf70185.jpg?x-img=v1/resize,h_600,lossless_false/optimize"
+    }
+  ]
 }

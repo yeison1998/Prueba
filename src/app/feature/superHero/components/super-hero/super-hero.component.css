@@ -1,3 +1,15 @@
-.row {
+.container-filter {
+    justify-content: space-between;
+}
+
+.general {
     justify-content: center;
+}
+
+.space {
+    margin-right: 10px;
+}
+
+.add {
+    width: 5%;
 }
