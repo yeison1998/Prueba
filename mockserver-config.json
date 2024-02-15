@@ -1,0 +1,304 @@
+{
+    "superHeros": [
+        {
+            "id": 1,
+            "name": "Spiderman",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/10647.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Batman",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Superman",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Wolverine",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/161.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Captain America",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/274.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Iron Man",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/85.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Thor",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Hulk",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Black Widow",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Flash",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Wonder Woman",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Green Lantern",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Aquaman",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Black Panther",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Doctor Strange",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Green Arrow",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Cyborg",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Deadpool",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Ant-Man",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Shazam",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Robin",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 22,
+            "name": "The Flash (Jay Garrick)",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Hawkeye",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Daredevil",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Vision",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 26,
+            "name": "Scarlet Witch",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 27,
+            "name": "Martian Manhunter",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 28,
+            "name": "Supergirl",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 29,
+            "name": "Nightwing",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 30,
+            "name": "Beast Boy",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 31,
+            "name": "Rogue",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 32,
+            "name": "Star-Lord",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 33,
+            "name": "Gambit",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 34,
+            "name": "Invisible Woman",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 35,
+            "name": "Mr. Fantastic",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 36,
+            "name": "Human Torch",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 37,
+            "name": "The Thing",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 38,
+            "name": "Silver Surfer",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 39,
+            "name": "Storm",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 40,
+            "name": "Jean Grey",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 41,
+            "name": "Cyclops",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 42,
+            "name": "Colossus",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 43,
+            "name": "Professor X",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 44,
+            "name": "Emma Frost",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 45,
+            "name": "Banshee",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 46,
+            "name": "Luke Cage",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 47,
+            "name": "Black Canary",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 48,
+            "name": "Green Goblin",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 49,
+            "name": "Doctor Doom",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 50,
+            "name": "Magneto",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 51,
+            "name": "Jean Grey (Phoenix)",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 52,
+            "name": "Black Bolt",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 53,
+            "name": "Namor",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 54,
+            "name": "Silver Samurai",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 55,
+            "name": "Quicksilver",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 56,
+            "name": "Mystique",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 57,
+            "name": "Juggernaut",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 58,
+            "name": "Apocalypse",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 59,
+            "name": "Cable",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        },
+        {
+            "id": 60,
+            "name": "Havok",
+            "img": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+        }
+    ]
+}
